@@ -1,0 +1,10 @@
+C:\Users\Asena\source\repos\Basic_Syntacsis\01. Integer Operations\bin\Debug\netcoreapp3.1\01. Integer Operations.exe
+C:\Users\Asena\source\repos\Basic_Syntacsis\01. Integer Operations\bin\Debug\netcoreapp3.1\01. Integer Operations.deps.json
+C:\Users\Asena\source\repos\Basic_Syntacsis\01. Integer Operations\bin\Debug\netcoreapp3.1\01. Integer Operations.runtimeconfig.json
+C:\Users\Asena\source\repos\Basic_Syntacsis\01. Integer Operations\bin\Debug\netcoreapp3.1\01. Integer Operations.runtimeconfig.dev.json
+C:\Users\Asena\source\repos\Basic_Syntacsis\01. Integer Operations\bin\Debug\netcoreapp3.1\01. Integer Operations.dll
+C:\Users\Asena\source\repos\Basic_Syntacsis\01. Integer Operations\bin\Debug\netcoreapp3.1\01. Integer Operations.pdb
+C:\Users\Asena\source\repos\Basic_Syntacsis\01. Integer Operations\obj\Debug\netcoreapp3.1\01. Integer Operations.AssemblyInfoInputs.cache
+C:\Users\Asena\source\repos\Basic_Syntacsis\01. Integer Operations\obj\Debug\netcoreapp3.1\01. Integer Operations.AssemblyInfo.cs
+C:\Users\Asena\source\repos\Basic_Syntacsis\01. Integer Operations\obj\Debug\netcoreapp3.1\01. Integer Operations.dll
+C:\Users\Asena\source\repos\Basic_Syntacsis\01. Integer Operations\obj\Debug\netcoreapp3.1\01. Integer Operations.pdb
