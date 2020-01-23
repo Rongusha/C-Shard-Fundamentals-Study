@@ -1,0 +1,10 @@
+C:\Users\Asena\source\repos\Basic_Syntacsis\02. Sum Digits\bin\Debug\netcoreapp3.1\02. Sum Digits.exe
+C:\Users\Asena\source\repos\Basic_Syntacsis\02. Sum Digits\bin\Debug\netcoreapp3.1\02. Sum Digits.deps.json
+C:\Users\Asena\source\repos\Basic_Syntacsis\02. Sum Digits\bin\Debug\netcoreapp3.1\02. Sum Digits.runtimeconfig.json
+C:\Users\Asena\source\repos\Basic_Syntacsis\02. Sum Digits\bin\Debug\netcoreapp3.1\02. Sum Digits.runtimeconfig.dev.json
+C:\Users\Asena\source\repos\Basic_Syntacsis\02. Sum Digits\bin\Debug\netcoreapp3.1\02. Sum Digits.dll
+C:\Users\Asena\source\repos\Basic_Syntacsis\02. Sum Digits\bin\Debug\netcoreapp3.1\02. Sum Digits.pdb
+C:\Users\Asena\source\repos\Basic_Syntacsis\02. Sum Digits\obj\Debug\netcoreapp3.1\02. Sum Digits.AssemblyInfoInputs.cache
+C:\Users\Asena\source\repos\Basic_Syntacsis\02. Sum Digits\obj\Debug\netcoreapp3.1\02. Sum Digits.AssemblyInfo.cs
+C:\Users\Asena\source\repos\Basic_Syntacsis\02. Sum Digits\obj\Debug\netcoreapp3.1\02. Sum Digits.dll
+C:\Users\Asena\source\repos\Basic_Syntacsis\02. Sum Digits\obj\Debug\netcoreapp3.1\02. Sum Digits.pdb
