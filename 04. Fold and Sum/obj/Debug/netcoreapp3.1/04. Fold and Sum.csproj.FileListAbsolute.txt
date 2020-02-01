@@ -1,0 +1,11 @@
+C:\Users\Asena\source\repos\Arrays - Exercise\04. Fold and Sum\bin\Debug\netcoreapp3.1\04. Fold and Sum.exe
+C:\Users\Asena\source\repos\Arrays - Exercise\04. Fold and Sum\bin\Debug\netcoreapp3.1\04. Fold and Sum.deps.json
+C:\Users\Asena\source\repos\Arrays - Exercise\04. Fold and Sum\bin\Debug\netcoreapp3.1\04. Fold and Sum.runtimeconfig.json
+C:\Users\Asena\source\repos\Arrays - Exercise\04. Fold and Sum\bin\Debug\netcoreapp3.1\04. Fold and Sum.runtimeconfig.dev.json
+C:\Users\Asena\source\repos\Arrays - Exercise\04. Fold and Sum\bin\Debug\netcoreapp3.1\04. Fold and Sum.dll
+C:\Users\Asena\source\repos\Arrays - Exercise\04. Fold and Sum\bin\Debug\netcoreapp3.1\04. Fold and Sum.pdb
+C:\Users\Asena\source\repos\Arrays - Exercise\04. Fold and Sum\obj\Debug\netcoreapp3.1\04. Fold and Sum.AssemblyInfoInputs.cache
+C:\Users\Asena\source\repos\Arrays - Exercise\04. Fold and Sum\obj\Debug\netcoreapp3.1\04. Fold and Sum.AssemblyInfo.cs
+C:\Users\Asena\source\repos\Arrays - Exercise\04. Fold and Sum\obj\Debug\netcoreapp3.1\04. Fold and Sum.dll
+C:\Users\Asena\source\repos\Arrays - Exercise\04. Fold and Sum\obj\Debug\netcoreapp3.1\04. Fold and Sum.pdb
+C:\Users\Asena\source\repos\Arrays - Exercise\04. Fold and Sum\obj\Debug\netcoreapp3.1\04. Fold and Sum.csprojAssemblyReference.cache
