@@ -1,0 +1,11 @@
+C:\Users\Asena\source\repos\Methots\10. Top Number\bin\Debug\netcoreapp3.1\10. Top Number.exe
+C:\Users\Asena\source\repos\Methots\10. Top Number\bin\Debug\netcoreapp3.1\10. Top Number.deps.json
+C:\Users\Asena\source\repos\Methots\10. Top Number\bin\Debug\netcoreapp3.1\10. Top Number.runtimeconfig.json
+C:\Users\Asena\source\repos\Methots\10. Top Number\bin\Debug\netcoreapp3.1\10. Top Number.runtimeconfig.dev.json
+C:\Users\Asena\source\repos\Methots\10. Top Number\bin\Debug\netcoreapp3.1\10. Top Number.dll
+C:\Users\Asena\source\repos\Methots\10. Top Number\bin\Debug\netcoreapp3.1\10. Top Number.pdb
+C:\Users\Asena\source\repos\Methots\10. Top Number\obj\Debug\netcoreapp3.1\10. Top Number.csprojAssemblyReference.cache
+C:\Users\Asena\source\repos\Methots\10. Top Number\obj\Debug\netcoreapp3.1\10. Top Number.AssemblyInfoInputs.cache
+C:\Users\Asena\source\repos\Methots\10. Top Number\obj\Debug\netcoreapp3.1\10. Top Number.AssemblyInfo.cs
+C:\Users\Asena\source\repos\Methots\10. Top Number\obj\Debug\netcoreapp3.1\10. Top Number.dll
+C:\Users\Asena\source\repos\Methots\10. Top Number\obj\Debug\netcoreapp3.1\10. Top Number.pdb
