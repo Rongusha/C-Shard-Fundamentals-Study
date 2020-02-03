@@ -1,0 +1,11 @@
+C:\Users\Asena\source\repos\Arrays - Exercise\10. LadyBugs\bin\Debug\netcoreapp3.1\10. LadyBugs.exe
+C:\Users\Asena\source\repos\Arrays - Exercise\10. LadyBugs\bin\Debug\netcoreapp3.1\10. LadyBugs.deps.json
+C:\Users\Asena\source\repos\Arrays - Exercise\10. LadyBugs\bin\Debug\netcoreapp3.1\10. LadyBugs.runtimeconfig.json
+C:\Users\Asena\source\repos\Arrays - Exercise\10. LadyBugs\bin\Debug\netcoreapp3.1\10. LadyBugs.runtimeconfig.dev.json
+C:\Users\Asena\source\repos\Arrays - Exercise\10. LadyBugs\bin\Debug\netcoreapp3.1\10. LadyBugs.dll
+C:\Users\Asena\source\repos\Arrays - Exercise\10. LadyBugs\bin\Debug\netcoreapp3.1\10. LadyBugs.pdb
+C:\Users\Asena\source\repos\Arrays - Exercise\10. LadyBugs\obj\Debug\netcoreapp3.1\10. LadyBugs.csprojAssemblyReference.cache
+C:\Users\Asena\source\repos\Arrays - Exercise\10. LadyBugs\obj\Debug\netcoreapp3.1\10. LadyBugs.AssemblyInfoInputs.cache
+C:\Users\Asena\source\repos\Arrays - Exercise\10. LadyBugs\obj\Debug\netcoreapp3.1\10. LadyBugs.AssemblyInfo.cs
+C:\Users\Asena\source\repos\Arrays - Exercise\10. LadyBugs\obj\Debug\netcoreapp3.1\10. LadyBugs.dll
+C:\Users\Asena\source\repos\Arrays - Exercise\10. LadyBugs\obj\Debug\netcoreapp3.1\10. LadyBugs.pdb
