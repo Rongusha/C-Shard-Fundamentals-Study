@@ -1,0 +1,11 @@
+C:\Users\Asena\source\repos\Lists\08. Anonymous Threat\bin\Debug\netcoreapp3.1\08. Anonymous Threat.exe
+C:\Users\Asena\source\repos\Lists\08. Anonymous Threat\bin\Debug\netcoreapp3.1\08. Anonymous Threat.deps.json
+C:\Users\Asena\source\repos\Lists\08. Anonymous Threat\bin\Debug\netcoreapp3.1\08. Anonymous Threat.runtimeconfig.json
+C:\Users\Asena\source\repos\Lists\08. Anonymous Threat\bin\Debug\netcoreapp3.1\08. Anonymous Threat.runtimeconfig.dev.json
+C:\Users\Asena\source\repos\Lists\08. Anonymous Threat\bin\Debug\netcoreapp3.1\08. Anonymous Threat.dll
+C:\Users\Asena\source\repos\Lists\08. Anonymous Threat\bin\Debug\netcoreapp3.1\08. Anonymous Threat.pdb
+C:\Users\Asena\source\repos\Lists\08. Anonymous Threat\obj\Debug\netcoreapp3.1\08. Anonymous Threat.csprojAssemblyReference.cache
+C:\Users\Asena\source\repos\Lists\08. Anonymous Threat\obj\Debug\netcoreapp3.1\08. Anonymous Threat.AssemblyInfoInputs.cache
+C:\Users\Asena\source\repos\Lists\08. Anonymous Threat\obj\Debug\netcoreapp3.1\08. Anonymous Threat.AssemblyInfo.cs
+C:\Users\Asena\source\repos\Lists\08. Anonymous Threat\obj\Debug\netcoreapp3.1\08. Anonymous Threat.dll
+C:\Users\Asena\source\repos\Lists\08. Anonymous Threat\obj\Debug\netcoreapp3.1\08. Anonymous Threat.pdb
