@@ -1,0 +1,11 @@
+C:\Users\Asena\source\repos\Lists\07. Append Arrays\bin\Debug\netcoreapp3.1\07. Append Arrays.exe
+C:\Users\Asena\source\repos\Lists\07. Append Arrays\bin\Debug\netcoreapp3.1\07. Append Arrays.deps.json
+C:\Users\Asena\source\repos\Lists\07. Append Arrays\bin\Debug\netcoreapp3.1\07. Append Arrays.runtimeconfig.json
+C:\Users\Asena\source\repos\Lists\07. Append Arrays\bin\Debug\netcoreapp3.1\07. Append Arrays.runtimeconfig.dev.json
+C:\Users\Asena\source\repos\Lists\07. Append Arrays\bin\Debug\netcoreapp3.1\07. Append Arrays.dll
+C:\Users\Asena\source\repos\Lists\07. Append Arrays\bin\Debug\netcoreapp3.1\07. Append Arrays.pdb
+C:\Users\Asena\source\repos\Lists\07. Append Arrays\obj\Debug\netcoreapp3.1\07. Append Arrays.csprojAssemblyReference.cache
+C:\Users\Asena\source\repos\Lists\07. Append Arrays\obj\Debug\netcoreapp3.1\07. Append Arrays.AssemblyInfoInputs.cache
+C:\Users\Asena\source\repos\Lists\07. Append Arrays\obj\Debug\netcoreapp3.1\07. Append Arrays.AssemblyInfo.cs
+C:\Users\Asena\source\repos\Lists\07. Append Arrays\obj\Debug\netcoreapp3.1\07. Append Arrays.dll
+C:\Users\Asena\source\repos\Lists\07. Append Arrays\obj\Debug\netcoreapp3.1\07. Append Arrays.pdb
