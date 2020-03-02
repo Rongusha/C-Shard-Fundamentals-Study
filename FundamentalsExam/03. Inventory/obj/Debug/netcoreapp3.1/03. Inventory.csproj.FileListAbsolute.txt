@@ -1,0 +1,11 @@
+C:\Users\Asena\source\repos\FundamentalsExam\03. Inventory\obj\Debug\netcoreapp3.1\03. Inventory.csprojAssemblyReference.cache
+C:\Users\Asena\source\repos\FundamentalsExam\03. Inventory\obj\Debug\netcoreapp3.1\03. Inventory.AssemblyInfoInputs.cache
+C:\Users\Asena\source\repos\FundamentalsExam\03. Inventory\obj\Debug\netcoreapp3.1\03. Inventory.AssemblyInfo.cs
+C:\Users\Asena\source\repos\FundamentalsExam\03. Inventory\bin\Debug\netcoreapp3.1\03. Inventory.exe
+C:\Users\Asena\source\repos\FundamentalsExam\03. Inventory\bin\Debug\netcoreapp3.1\03. Inventory.deps.json
+C:\Users\Asena\source\repos\FundamentalsExam\03. Inventory\bin\Debug\netcoreapp3.1\03. Inventory.runtimeconfig.json
+C:\Users\Asena\source\repos\FundamentalsExam\03. Inventory\bin\Debug\netcoreapp3.1\03. Inventory.runtimeconfig.dev.json
+C:\Users\Asena\source\repos\FundamentalsExam\03. Inventory\bin\Debug\netcoreapp3.1\03. Inventory.dll
+C:\Users\Asena\source\repos\FundamentalsExam\03. Inventory\bin\Debug\netcoreapp3.1\03. Inventory.pdb
+C:\Users\Asena\source\repos\FundamentalsExam\03. Inventory\obj\Debug\netcoreapp3.1\03. Inventory.dll
+C:\Users\Asena\source\repos\FundamentalsExam\03. Inventory\obj\Debug\netcoreapp3.1\03. Inventory.pdb
