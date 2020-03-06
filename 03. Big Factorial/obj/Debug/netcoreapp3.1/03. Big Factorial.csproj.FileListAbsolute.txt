@@ -1,0 +1,11 @@
+C:\Users\Asena\source\repos\LabObjects and Classes\03. Big Factorial\bin\Debug\netcoreapp3.1\03. Big Factorial.exe
+C:\Users\Asena\source\repos\LabObjects and Classes\03. Big Factorial\bin\Debug\netcoreapp3.1\03. Big Factorial.deps.json
+C:\Users\Asena\source\repos\LabObjects and Classes\03. Big Factorial\bin\Debug\netcoreapp3.1\03. Big Factorial.runtimeconfig.json
+C:\Users\Asena\source\repos\LabObjects and Classes\03. Big Factorial\bin\Debug\netcoreapp3.1\03. Big Factorial.runtimeconfig.dev.json
+C:\Users\Asena\source\repos\LabObjects and Classes\03. Big Factorial\bin\Debug\netcoreapp3.1\03. Big Factorial.dll
+C:\Users\Asena\source\repos\LabObjects and Classes\03. Big Factorial\bin\Debug\netcoreapp3.1\03. Big Factorial.pdb
+C:\Users\Asena\source\repos\LabObjects and Classes\03. Big Factorial\obj\Debug\netcoreapp3.1\03. Big Factorial.csprojAssemblyReference.cache
+C:\Users\Asena\source\repos\LabObjects and Classes\03. Big Factorial\obj\Debug\netcoreapp3.1\03. Big Factorial.AssemblyInfoInputs.cache
+C:\Users\Asena\source\repos\LabObjects and Classes\03. Big Factorial\obj\Debug\netcoreapp3.1\03. Big Factorial.AssemblyInfo.cs
+C:\Users\Asena\source\repos\LabObjects and Classes\03. Big Factorial\obj\Debug\netcoreapp3.1\03. Big Factorial.dll
+C:\Users\Asena\source\repos\LabObjects and Classes\03. Big Factorial\obj\Debug\netcoreapp3.1\03. Big Factorial.pdb

@@ -1,0 +1,11 @@
+C:\Users\Asena\source\repos\LabObjects and Classes\04. Songs\bin\Debug\netcoreapp3.1\04. Songs.exe
+C:\Users\Asena\source\repos\LabObjects and Classes\04. Songs\bin\Debug\netcoreapp3.1\04. Songs.deps.json
+C:\Users\Asena\source\repos\LabObjects and Classes\04. Songs\bin\Debug\netcoreapp3.1\04. Songs.runtimeconfig.json
+C:\Users\Asena\source\repos\LabObjects and Classes\04. Songs\bin\Debug\netcoreapp3.1\04. Songs.runtimeconfig.dev.json
+C:\Users\Asena\source\repos\LabObjects and Classes\04. Songs\bin\Debug\netcoreapp3.1\04. Songs.dll
+C:\Users\Asena\source\repos\LabObjects and Classes\04. Songs\bin\Debug\netcoreapp3.1\04. Songs.pdb
+C:\Users\Asena\source\repos\LabObjects and Classes\04. Songs\obj\Debug\netcoreapp3.1\04. Songs.csprojAssemblyReference.cache
+C:\Users\Asena\source\repos\LabObjects and Classes\04. Songs\obj\Debug\netcoreapp3.1\04. Songs.AssemblyInfoInputs.cache
+C:\Users\Asena\source\repos\LabObjects and Classes\04. Songs\obj\Debug\netcoreapp3.1\04. Songs.AssemblyInfo.cs
+C:\Users\Asena\source\repos\LabObjects and Classes\04. Songs\obj\Debug\netcoreapp3.1\04. Songs.dll
+C:\Users\Asena\source\repos\LabObjects and Classes\04. Songs\obj\Debug\netcoreapp3.1\04. Songs.pdb
