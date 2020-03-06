@@ -1,0 +1,10 @@
+C:\Users\Asena\source\repos\Methots\05. Add and Subtract\bin\Debug\netcoreapp3.1\05. Add and Subtract.exe
+C:\Users\Asena\source\repos\Methots\05. Add and Subtract\bin\Debug\netcoreapp3.1\05. Add and Subtract.deps.json
+C:\Users\Asena\source\repos\Methots\05. Add and Subtract\bin\Debug\netcoreapp3.1\05. Add and Subtract.runtimeconfig.json
+C:\Users\Asena\source\repos\Methots\05. Add and Subtract\bin\Debug\netcoreapp3.1\05. Add and Subtract.runtimeconfig.dev.json
+C:\Users\Asena\source\repos\Methots\05. Add and Subtract\bin\Debug\netcoreapp3.1\05. Add and Subtract.dll
+C:\Users\Asena\source\repos\Methots\05. Add and Subtract\bin\Debug\netcoreapp3.1\05. Add and Subtract.pdb
+C:\Users\Asena\source\repos\Methots\05. Add and Subtract\obj\Debug\netcoreapp3.1\05. Add and Subtract.AssemblyInfoInputs.cache
+C:\Users\Asena\source\repos\Methots\05. Add and Subtract\obj\Debug\netcoreapp3.1\05. Add and Subtract.AssemblyInfo.cs
+C:\Users\Asena\source\repos\Methots\05. Add and Subtract\obj\Debug\netcoreapp3.1\05. Add and Subtract.dll
+C:\Users\Asena\source\repos\Methots\05. Add and Subtract\obj\Debug\netcoreapp3.1\05. Add and Subtract.pdb

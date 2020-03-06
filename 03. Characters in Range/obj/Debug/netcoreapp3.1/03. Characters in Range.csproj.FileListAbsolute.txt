@@ -1,0 +1,10 @@
+C:\Users\Asena\source\repos\Methots\03. Characters in Range\bin\Debug\netcoreapp3.1\03. Characters in Range.exe
+C:\Users\Asena\source\repos\Methots\03. Characters in Range\bin\Debug\netcoreapp3.1\03. Characters in Range.deps.json
+C:\Users\Asena\source\repos\Methots\03. Characters in Range\bin\Debug\netcoreapp3.1\03. Characters in Range.runtimeconfig.json
+C:\Users\Asena\source\repos\Methots\03. Characters in Range\bin\Debug\netcoreapp3.1\03. Characters in Range.runtimeconfig.dev.json
+C:\Users\Asena\source\repos\Methots\03. Characters in Range\bin\Debug\netcoreapp3.1\03. Characters in Range.dll
+C:\Users\Asena\source\repos\Methots\03. Characters in Range\bin\Debug\netcoreapp3.1\03. Characters in Range.pdb
+C:\Users\Asena\source\repos\Methots\03. Characters in Range\obj\Debug\netcoreapp3.1\03. Characters in Range.AssemblyInfoInputs.cache
+C:\Users\Asena\source\repos\Methots\03. Characters in Range\obj\Debug\netcoreapp3.1\03. Characters in Range.AssemblyInfo.cs
+C:\Users\Asena\source\repos\Methots\03. Characters in Range\obj\Debug\netcoreapp3.1\03. Characters in Range.dll
+C:\Users\Asena\source\repos\Methots\03. Characters in Range\obj\Debug\netcoreapp3.1\03. Characters in Range.pdb
