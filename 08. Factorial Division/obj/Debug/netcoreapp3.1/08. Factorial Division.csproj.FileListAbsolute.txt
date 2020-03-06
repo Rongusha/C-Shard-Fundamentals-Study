@@ -1,0 +1,10 @@
+C:\Users\Asena\source\repos\Methots\08. Factorial Division\bin\Debug\netcoreapp3.1\08. Factorial Division.exe
+C:\Users\Asena\source\repos\Methots\08. Factorial Division\bin\Debug\netcoreapp3.1\08. Factorial Division.deps.json
+C:\Users\Asena\source\repos\Methots\08. Factorial Division\bin\Debug\netcoreapp3.1\08. Factorial Division.runtimeconfig.json
+C:\Users\Asena\source\repos\Methots\08. Factorial Division\bin\Debug\netcoreapp3.1\08. Factorial Division.runtimeconfig.dev.json
+C:\Users\Asena\source\repos\Methots\08. Factorial Division\bin\Debug\netcoreapp3.1\08. Factorial Division.dll
+C:\Users\Asena\source\repos\Methots\08. Factorial Division\bin\Debug\netcoreapp3.1\08. Factorial Division.pdb
+C:\Users\Asena\source\repos\Methots\08. Factorial Division\obj\Debug\netcoreapp3.1\08. Factorial Division.AssemblyInfoInputs.cache
+C:\Users\Asena\source\repos\Methots\08. Factorial Division\obj\Debug\netcoreapp3.1\08. Factorial Division.AssemblyInfo.cs
+C:\Users\Asena\source\repos\Methots\08. Factorial Division\obj\Debug\netcoreapp3.1\08. Factorial Division.dll
+C:\Users\Asena\source\repos\Methots\08. Factorial Division\obj\Debug\netcoreapp3.1\08. Factorial Division.pdb

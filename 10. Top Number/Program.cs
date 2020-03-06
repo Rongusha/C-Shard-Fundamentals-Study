@@ -8,7 +8,7 @@ namespace _10._Top_Number
         {
             int number = int.Parse(Console.ReadLine());
 
-            for (int i = 1; i <= number; i++)
+            for (int i = 11; i <= number; i++)
             {
                 if (CheckIfDevisible(i) && CheckForOddDigits(i))
                 {
@@ -34,7 +34,7 @@ namespace _10._Top_Number
 
         static bool CheckForOddDigits(int num)
         {
-            bool IsValid = true;
+            bool IsValid = false;
             int currentDigit = num;
 
             while (num>0)
@@ -44,13 +44,9 @@ namespace _10._Top_Number
 
                 if (currentDigit%2!=0)
                 {
-                    continue;
+                    IsValid = true;
                 }
-                else
-                {
-                    IsValid = false;
-                   
-                }
+                
             }
 
             return IsValid;
@@ -58,14 +54,13 @@ namespace _10._Top_Number
 
         static int GetSumOfDigits(int num)
         {
-            int currentDigit = num;
             int sumOfDigits = 0;
 
             while (num>0)
             {
-                currentDigit = num % 10;
+                sumOfDigits += num % 10;
                 num = num / 10;
-                sumOfDigits += currentDigit;
+                
             }
 
             return sumOfDigits;
