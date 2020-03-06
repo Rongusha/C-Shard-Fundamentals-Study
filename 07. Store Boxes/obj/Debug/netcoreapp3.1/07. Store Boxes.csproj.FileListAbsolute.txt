@@ -1,0 +1,11 @@
+C:\Users\Asena\source\repos\LabObjects and Classes\07. Store Boxes\bin\Debug\netcoreapp3.1\07. Store Boxes.exe
+C:\Users\Asena\source\repos\LabObjects and Classes\07. Store Boxes\bin\Debug\netcoreapp3.1\07. Store Boxes.deps.json
+C:\Users\Asena\source\repos\LabObjects and Classes\07. Store Boxes\bin\Debug\netcoreapp3.1\07. Store Boxes.runtimeconfig.json
+C:\Users\Asena\source\repos\LabObjects and Classes\07. Store Boxes\bin\Debug\netcoreapp3.1\07. Store Boxes.runtimeconfig.dev.json
+C:\Users\Asena\source\repos\LabObjects and Classes\07. Store Boxes\bin\Debug\netcoreapp3.1\07. Store Boxes.dll
+C:\Users\Asena\source\repos\LabObjects and Classes\07. Store Boxes\bin\Debug\netcoreapp3.1\07. Store Boxes.pdb
+C:\Users\Asena\source\repos\LabObjects and Classes\07. Store Boxes\obj\Debug\netcoreapp3.1\07. Store Boxes.csprojAssemblyReference.cache
+C:\Users\Asena\source\repos\LabObjects and Classes\07. Store Boxes\obj\Debug\netcoreapp3.1\07. Store Boxes.AssemblyInfoInputs.cache
+C:\Users\Asena\source\repos\LabObjects and Classes\07. Store Boxes\obj\Debug\netcoreapp3.1\07. Store Boxes.AssemblyInfo.cs
+C:\Users\Asena\source\repos\LabObjects and Classes\07. Store Boxes\obj\Debug\netcoreapp3.1\07. Store Boxes.dll
+C:\Users\Asena\source\repos\LabObjects and Classes\07. Store Boxes\obj\Debug\netcoreapp3.1\07. Store Boxes.pdb

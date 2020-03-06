@@ -1,0 +1,10 @@
+C:\Users\Asena\source\repos\LabObjects and Classes\Vehicle Catalogue2\bin\Debug\netcoreapp3.1\Vehicle Catalogue2.exe
+C:\Users\Asena\source\repos\LabObjects and Classes\Vehicle Catalogue2\bin\Debug\netcoreapp3.1\Vehicle Catalogue2.deps.json
+C:\Users\Asena\source\repos\LabObjects and Classes\Vehicle Catalogue2\bin\Debug\netcoreapp3.1\Vehicle Catalogue2.runtimeconfig.json
+C:\Users\Asena\source\repos\LabObjects and Classes\Vehicle Catalogue2\bin\Debug\netcoreapp3.1\Vehicle Catalogue2.runtimeconfig.dev.json
+C:\Users\Asena\source\repos\LabObjects and Classes\Vehicle Catalogue2\bin\Debug\netcoreapp3.1\Vehicle Catalogue2.dll
+C:\Users\Asena\source\repos\LabObjects and Classes\Vehicle Catalogue2\bin\Debug\netcoreapp3.1\Vehicle Catalogue2.pdb
+C:\Users\Asena\source\repos\LabObjects and Classes\Vehicle Catalogue2\obj\Debug\netcoreapp3.1\Vehicle Catalogue2.AssemblyInfoInputs.cache
+C:\Users\Asena\source\repos\LabObjects and Classes\Vehicle Catalogue2\obj\Debug\netcoreapp3.1\Vehicle Catalogue2.AssemblyInfo.cs
+C:\Users\Asena\source\repos\LabObjects and Classes\Vehicle Catalogue2\obj\Debug\netcoreapp3.1\Vehicle Catalogue2.dll
+C:\Users\Asena\source\repos\LabObjects and Classes\Vehicle Catalogue2\obj\Debug\netcoreapp3.1\Vehicle Catalogue2.pdb
