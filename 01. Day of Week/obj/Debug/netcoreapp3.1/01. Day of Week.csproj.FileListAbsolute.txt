@@ -1,0 +1,11 @@
+C:\Users\Asena\source\repos\LabObjects and Classes\01. Day of Week\bin\Debug\netcoreapp3.1\01. Day of Week.exe
+C:\Users\Asena\source\repos\LabObjects and Classes\01. Day of Week\bin\Debug\netcoreapp3.1\01. Day of Week.deps.json
+C:\Users\Asena\source\repos\LabObjects and Classes\01. Day of Week\bin\Debug\netcoreapp3.1\01. Day of Week.runtimeconfig.json
+C:\Users\Asena\source\repos\LabObjects and Classes\01. Day of Week\bin\Debug\netcoreapp3.1\01. Day of Week.runtimeconfig.dev.json
+C:\Users\Asena\source\repos\LabObjects and Classes\01. Day of Week\bin\Debug\netcoreapp3.1\01. Day of Week.dll
+C:\Users\Asena\source\repos\LabObjects and Classes\01. Day of Week\bin\Debug\netcoreapp3.1\01. Day of Week.pdb
+C:\Users\Asena\source\repos\LabObjects and Classes\01. Day of Week\obj\Debug\netcoreapp3.1\01. Day of Week.csprojAssemblyReference.cache
+C:\Users\Asena\source\repos\LabObjects and Classes\01. Day of Week\obj\Debug\netcoreapp3.1\01. Day of Week.AssemblyInfoInputs.cache
+C:\Users\Asena\source\repos\LabObjects and Classes\01. Day of Week\obj\Debug\netcoreapp3.1\01. Day of Week.AssemblyInfo.cs
+C:\Users\Asena\source\repos\LabObjects and Classes\01. Day of Week\obj\Debug\netcoreapp3.1\01. Day of Week.dll
+C:\Users\Asena\source\repos\LabObjects and Classes\01. Day of Week\obj\Debug\netcoreapp3.1\01. Day of Week.pdb

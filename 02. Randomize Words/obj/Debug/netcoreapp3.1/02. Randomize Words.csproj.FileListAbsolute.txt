@@ -1,0 +1,10 @@
+C:\Users\Asena\source\repos\LabObjects and Classes\02. Randomize Words\bin\Debug\netcoreapp3.1\02. Randomize Words.exe
+C:\Users\Asena\source\repos\LabObjects and Classes\02. Randomize Words\bin\Debug\netcoreapp3.1\02. Randomize Words.deps.json
+C:\Users\Asena\source\repos\LabObjects and Classes\02. Randomize Words\bin\Debug\netcoreapp3.1\02. Randomize Words.runtimeconfig.json
+C:\Users\Asena\source\repos\LabObjects and Classes\02. Randomize Words\bin\Debug\netcoreapp3.1\02. Randomize Words.runtimeconfig.dev.json
+C:\Users\Asena\source\repos\LabObjects and Classes\02. Randomize Words\bin\Debug\netcoreapp3.1\02. Randomize Words.dll
+C:\Users\Asena\source\repos\LabObjects and Classes\02. Randomize Words\bin\Debug\netcoreapp3.1\02. Randomize Words.pdb
+C:\Users\Asena\source\repos\LabObjects and Classes\02. Randomize Words\obj\Debug\netcoreapp3.1\02. Randomize Words.AssemblyInfoInputs.cache
+C:\Users\Asena\source\repos\LabObjects and Classes\02. Randomize Words\obj\Debug\netcoreapp3.1\02. Randomize Words.AssemblyInfo.cs
+C:\Users\Asena\source\repos\LabObjects and Classes\02. Randomize Words\obj\Debug\netcoreapp3.1\02. Randomize Words.dll
+C:\Users\Asena\source\repos\LabObjects and Classes\02. Randomize Words\obj\Debug\netcoreapp3.1\02. Randomize Words.pdb
