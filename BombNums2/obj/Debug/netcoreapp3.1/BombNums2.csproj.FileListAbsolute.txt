@@ -1,0 +1,10 @@
+C:\Users\Asena\source\repos\Lists\BombNums2\bin\Debug\netcoreapp3.1\BombNums2.exe
+C:\Users\Asena\source\repos\Lists\BombNums2\bin\Debug\netcoreapp3.1\BombNums2.deps.json
+C:\Users\Asena\source\repos\Lists\BombNums2\bin\Debug\netcoreapp3.1\BombNums2.runtimeconfig.json
+C:\Users\Asena\source\repos\Lists\BombNums2\bin\Debug\netcoreapp3.1\BombNums2.runtimeconfig.dev.json
+C:\Users\Asena\source\repos\Lists\BombNums2\bin\Debug\netcoreapp3.1\BombNums2.dll
+C:\Users\Asena\source\repos\Lists\BombNums2\bin\Debug\netcoreapp3.1\BombNums2.pdb
+C:\Users\Asena\source\repos\Lists\BombNums2\obj\Debug\netcoreapp3.1\BombNums2.AssemblyInfoInputs.cache
+C:\Users\Asena\source\repos\Lists\BombNums2\obj\Debug\netcoreapp3.1\BombNums2.AssemblyInfo.cs
+C:\Users\Asena\source\repos\Lists\BombNums2\obj\Debug\netcoreapp3.1\BombNums2.dll
+C:\Users\Asena\source\repos\Lists\BombNums2\obj\Debug\netcoreapp3.1\BombNums2.pdb
