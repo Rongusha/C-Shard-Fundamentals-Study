@@ -1,0 +1,11 @@
+C:\Users\Asena\source\repos\Arrays - Exercise\02. Pascal Triangle\bin\Debug\netcoreapp3.1\02. Pascal Triangle.exe
+C:\Users\Asena\source\repos\Arrays - Exercise\02. Pascal Triangle\bin\Debug\netcoreapp3.1\02. Pascal Triangle.deps.json
+C:\Users\Asena\source\repos\Arrays - Exercise\02. Pascal Triangle\bin\Debug\netcoreapp3.1\02. Pascal Triangle.runtimeconfig.json
+C:\Users\Asena\source\repos\Arrays - Exercise\02. Pascal Triangle\bin\Debug\netcoreapp3.1\02. Pascal Triangle.runtimeconfig.dev.json
+C:\Users\Asena\source\repos\Arrays - Exercise\02. Pascal Triangle\bin\Debug\netcoreapp3.1\02. Pascal Triangle.dll
+C:\Users\Asena\source\repos\Arrays - Exercise\02. Pascal Triangle\bin\Debug\netcoreapp3.1\02. Pascal Triangle.pdb
+C:\Users\Asena\source\repos\Arrays - Exercise\02. Pascal Triangle\obj\Debug\netcoreapp3.1\02. Pascal Triangle.csprojAssemblyReference.cache
+C:\Users\Asena\source\repos\Arrays - Exercise\02. Pascal Triangle\obj\Debug\netcoreapp3.1\02. Pascal Triangle.AssemblyInfoInputs.cache
+C:\Users\Asena\source\repos\Arrays - Exercise\02. Pascal Triangle\obj\Debug\netcoreapp3.1\02. Pascal Triangle.AssemblyInfo.cs
+C:\Users\Asena\source\repos\Arrays - Exercise\02. Pascal Triangle\obj\Debug\netcoreapp3.1\02. Pascal Triangle.dll
+C:\Users\Asena\source\repos\Arrays - Exercise\02. Pascal Triangle\obj\Debug\netcoreapp3.1\02. Pascal Triangle.pdb
