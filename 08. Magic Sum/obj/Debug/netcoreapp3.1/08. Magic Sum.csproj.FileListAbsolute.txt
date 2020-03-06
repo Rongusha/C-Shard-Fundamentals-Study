@@ -1,0 +1,11 @@
+C:\Users\Asena\source\repos\Arrays - Exercise\08. Magic Sum\bin\Debug\netcoreapp3.1\08. Magic Sum.exe
+C:\Users\Asena\source\repos\Arrays - Exercise\08. Magic Sum\bin\Debug\netcoreapp3.1\08. Magic Sum.deps.json
+C:\Users\Asena\source\repos\Arrays - Exercise\08. Magic Sum\bin\Debug\netcoreapp3.1\08. Magic Sum.runtimeconfig.json
+C:\Users\Asena\source\repos\Arrays - Exercise\08. Magic Sum\bin\Debug\netcoreapp3.1\08. Magic Sum.runtimeconfig.dev.json
+C:\Users\Asena\source\repos\Arrays - Exercise\08. Magic Sum\bin\Debug\netcoreapp3.1\08. Magic Sum.dll
+C:\Users\Asena\source\repos\Arrays - Exercise\08. Magic Sum\bin\Debug\netcoreapp3.1\08. Magic Sum.pdb
+C:\Users\Asena\source\repos\Arrays - Exercise\08. Magic Sum\obj\Debug\netcoreapp3.1\08. Magic Sum.csprojAssemblyReference.cache
+C:\Users\Asena\source\repos\Arrays - Exercise\08. Magic Sum\obj\Debug\netcoreapp3.1\08. Magic Sum.AssemblyInfoInputs.cache
+C:\Users\Asena\source\repos\Arrays - Exercise\08. Magic Sum\obj\Debug\netcoreapp3.1\08. Magic Sum.AssemblyInfo.cs
+C:\Users\Asena\source\repos\Arrays - Exercise\08. Magic Sum\obj\Debug\netcoreapp3.1\08. Magic Sum.dll
+C:\Users\Asena\source\repos\Arrays - Exercise\08. Magic Sum\obj\Debug\netcoreapp3.1\08. Magic Sum.pdb

@@ -1,0 +1,10 @@
+C:\Users\Asena\source\repos\Arrays - Exercise\testt\bin\Debug\netcoreapp3.1\testt.exe
+C:\Users\Asena\source\repos\Arrays - Exercise\testt\bin\Debug\netcoreapp3.1\testt.deps.json
+C:\Users\Asena\source\repos\Arrays - Exercise\testt\bin\Debug\netcoreapp3.1\testt.runtimeconfig.json
+C:\Users\Asena\source\repos\Arrays - Exercise\testt\bin\Debug\netcoreapp3.1\testt.runtimeconfig.dev.json
+C:\Users\Asena\source\repos\Arrays - Exercise\testt\bin\Debug\netcoreapp3.1\testt.dll
+C:\Users\Asena\source\repos\Arrays - Exercise\testt\bin\Debug\netcoreapp3.1\testt.pdb
+C:\Users\Asena\source\repos\Arrays - Exercise\testt\obj\Debug\netcoreapp3.1\testt.AssemblyInfoInputs.cache
+C:\Users\Asena\source\repos\Arrays - Exercise\testt\obj\Debug\netcoreapp3.1\testt.AssemblyInfo.cs
+C:\Users\Asena\source\repos\Arrays - Exercise\testt\obj\Debug\netcoreapp3.1\testt.dll
+C:\Users\Asena\source\repos\Arrays - Exercise\testt\obj\Debug\netcoreapp3.1\testt.pdb
