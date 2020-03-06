@@ -1,0 +1,10 @@
+C:\Users\Asena\source\repos\Lists\01. Train\bin\Debug\netcoreapp3.1\01. Train.exe
+C:\Users\Asena\source\repos\Lists\01. Train\bin\Debug\netcoreapp3.1\01. Train.deps.json
+C:\Users\Asena\source\repos\Lists\01. Train\bin\Debug\netcoreapp3.1\01. Train.runtimeconfig.json
+C:\Users\Asena\source\repos\Lists\01. Train\bin\Debug\netcoreapp3.1\01. Train.runtimeconfig.dev.json
+C:\Users\Asena\source\repos\Lists\01. Train\bin\Debug\netcoreapp3.1\01. Train.dll
+C:\Users\Asena\source\repos\Lists\01. Train\bin\Debug\netcoreapp3.1\01. Train.pdb
+C:\Users\Asena\source\repos\Lists\01. Train\obj\Debug\netcoreapp3.1\01. Train.AssemblyInfoInputs.cache
+C:\Users\Asena\source\repos\Lists\01. Train\obj\Debug\netcoreapp3.1\01. Train.AssemblyInfo.cs
+C:\Users\Asena\source\repos\Lists\01. Train\obj\Debug\netcoreapp3.1\01. Train.dll
+C:\Users\Asena\source\repos\Lists\01. Train\obj\Debug\netcoreapp3.1\01. Train.pdb
