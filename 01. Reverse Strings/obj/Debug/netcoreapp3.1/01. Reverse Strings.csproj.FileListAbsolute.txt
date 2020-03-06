@@ -1,0 +1,11 @@
+C:\Users\Asena\source\repos\Text Processing\01. Reverse Strings\bin\Debug\netcoreapp3.1\01. Reverse Strings.exe
+C:\Users\Asena\source\repos\Text Processing\01. Reverse Strings\bin\Debug\netcoreapp3.1\01. Reverse Strings.deps.json
+C:\Users\Asena\source\repos\Text Processing\01. Reverse Strings\bin\Debug\netcoreapp3.1\01. Reverse Strings.runtimeconfig.json
+C:\Users\Asena\source\repos\Text Processing\01. Reverse Strings\bin\Debug\netcoreapp3.1\01. Reverse Strings.runtimeconfig.dev.json
+C:\Users\Asena\source\repos\Text Processing\01. Reverse Strings\bin\Debug\netcoreapp3.1\01. Reverse Strings.dll
+C:\Users\Asena\source\repos\Text Processing\01. Reverse Strings\bin\Debug\netcoreapp3.1\01. Reverse Strings.pdb
+C:\Users\Asena\source\repos\Text Processing\01. Reverse Strings\obj\Debug\netcoreapp3.1\01. Reverse Strings.csprojAssemblyReference.cache
+C:\Users\Asena\source\repos\Text Processing\01. Reverse Strings\obj\Debug\netcoreapp3.1\01. Reverse Strings.AssemblyInfoInputs.cache
+C:\Users\Asena\source\repos\Text Processing\01. Reverse Strings\obj\Debug\netcoreapp3.1\01. Reverse Strings.AssemblyInfo.cs
+C:\Users\Asena\source\repos\Text Processing\01. Reverse Strings\obj\Debug\netcoreapp3.1\01. Reverse Strings.dll
+C:\Users\Asena\source\repos\Text Processing\01. Reverse Strings\obj\Debug\netcoreapp3.1\01. Reverse Strings.pdb
