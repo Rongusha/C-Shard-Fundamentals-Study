@@ -1,0 +1,10 @@
+C:\Users\Asena\source\repos\LabObjects and Classes\07. Order by Age\bin\Debug\netcoreapp3.1\07. Order by Age.exe
+C:\Users\Asena\source\repos\LabObjects and Classes\07. Order by Age\bin\Debug\netcoreapp3.1\07. Order by Age.deps.json
+C:\Users\Asena\source\repos\LabObjects and Classes\07. Order by Age\bin\Debug\netcoreapp3.1\07. Order by Age.runtimeconfig.json
+C:\Users\Asena\source\repos\LabObjects and Classes\07. Order by Age\bin\Debug\netcoreapp3.1\07. Order by Age.runtimeconfig.dev.json
+C:\Users\Asena\source\repos\LabObjects and Classes\07. Order by Age\bin\Debug\netcoreapp3.1\07. Order by Age.dll
+C:\Users\Asena\source\repos\LabObjects and Classes\07. Order by Age\bin\Debug\netcoreapp3.1\07. Order by Age.pdb
+C:\Users\Asena\source\repos\LabObjects and Classes\07. Order by Age\obj\Debug\netcoreapp3.1\07. Order by Age.AssemblyInfoInputs.cache
+C:\Users\Asena\source\repos\LabObjects and Classes\07. Order by Age\obj\Debug\netcoreapp3.1\07. Order by Age.AssemblyInfo.cs
+C:\Users\Asena\source\repos\LabObjects and Classes\07. Order by Age\obj\Debug\netcoreapp3.1\07. Order by Age.dll
+C:\Users\Asena\source\repos\LabObjects and Classes\07. Order by Age\obj\Debug\netcoreapp3.1\07. Order by Age.pdb
