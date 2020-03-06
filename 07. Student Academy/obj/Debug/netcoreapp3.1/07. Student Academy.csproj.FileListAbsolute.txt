@@ -1,0 +1,11 @@
+C:\Users\Asena\source\repos\Associative Arrays\07. Student Academy\bin\Debug\netcoreapp3.1\07. Student Academy.exe
+C:\Users\Asena\source\repos\Associative Arrays\07. Student Academy\bin\Debug\netcoreapp3.1\07. Student Academy.deps.json
+C:\Users\Asena\source\repos\Associative Arrays\07. Student Academy\bin\Debug\netcoreapp3.1\07. Student Academy.runtimeconfig.json
+C:\Users\Asena\source\repos\Associative Arrays\07. Student Academy\bin\Debug\netcoreapp3.1\07. Student Academy.runtimeconfig.dev.json
+C:\Users\Asena\source\repos\Associative Arrays\07. Student Academy\bin\Debug\netcoreapp3.1\07. Student Academy.dll
+C:\Users\Asena\source\repos\Associative Arrays\07. Student Academy\bin\Debug\netcoreapp3.1\07. Student Academy.pdb
+C:\Users\Asena\source\repos\Associative Arrays\07. Student Academy\obj\Debug\netcoreapp3.1\07. Student Academy.csprojAssemblyReference.cache
+C:\Users\Asena\source\repos\Associative Arrays\07. Student Academy\obj\Debug\netcoreapp3.1\07. Student Academy.AssemblyInfoInputs.cache
+C:\Users\Asena\source\repos\Associative Arrays\07. Student Academy\obj\Debug\netcoreapp3.1\07. Student Academy.AssemblyInfo.cs
+C:\Users\Asena\source\repos\Associative Arrays\07. Student Academy\obj\Debug\netcoreapp3.1\07. Student Academy.dll
+C:\Users\Asena\source\repos\Associative Arrays\07. Student Academy\obj\Debug\netcoreapp3.1\07. Student Academy.pdb

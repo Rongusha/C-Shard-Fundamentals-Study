@@ -1,0 +1,10 @@
+C:\Users\Asena\source\repos\Associative Arrays\05. Word Filter\bin\Debug\netcoreapp3.1\05. Word Filter.exe
+C:\Users\Asena\source\repos\Associative Arrays\05. Word Filter\bin\Debug\netcoreapp3.1\05. Word Filter.deps.json
+C:\Users\Asena\source\repos\Associative Arrays\05. Word Filter\bin\Debug\netcoreapp3.1\05. Word Filter.runtimeconfig.json
+C:\Users\Asena\source\repos\Associative Arrays\05. Word Filter\bin\Debug\netcoreapp3.1\05. Word Filter.runtimeconfig.dev.json
+C:\Users\Asena\source\repos\Associative Arrays\05. Word Filter\bin\Debug\netcoreapp3.1\05. Word Filter.dll
+C:\Users\Asena\source\repos\Associative Arrays\05. Word Filter\bin\Debug\netcoreapp3.1\05. Word Filter.pdb
+C:\Users\Asena\source\repos\Associative Arrays\05. Word Filter\obj\Debug\netcoreapp3.1\05. Word Filter.AssemblyInfoInputs.cache
+C:\Users\Asena\source\repos\Associative Arrays\05. Word Filter\obj\Debug\netcoreapp3.1\05. Word Filter.AssemblyInfo.cs
+C:\Users\Asena\source\repos\Associative Arrays\05. Word Filter\obj\Debug\netcoreapp3.1\05. Word Filter.dll
+C:\Users\Asena\source\repos\Associative Arrays\05. Word Filter\obj\Debug\netcoreapp3.1\05. Word Filter.pdb
