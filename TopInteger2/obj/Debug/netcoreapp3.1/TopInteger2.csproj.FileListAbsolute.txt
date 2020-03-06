@@ -1,0 +1,10 @@
+C:\Users\Asena\source\repos\Methots\TopInteger2\bin\Debug\netcoreapp3.1\TopInteger2.exe
+C:\Users\Asena\source\repos\Methots\TopInteger2\bin\Debug\netcoreapp3.1\TopInteger2.deps.json
+C:\Users\Asena\source\repos\Methots\TopInteger2\bin\Debug\netcoreapp3.1\TopInteger2.runtimeconfig.json
+C:\Users\Asena\source\repos\Methots\TopInteger2\bin\Debug\netcoreapp3.1\TopInteger2.runtimeconfig.dev.json
+C:\Users\Asena\source\repos\Methots\TopInteger2\bin\Debug\netcoreapp3.1\TopInteger2.dll
+C:\Users\Asena\source\repos\Methots\TopInteger2\bin\Debug\netcoreapp3.1\TopInteger2.pdb
+C:\Users\Asena\source\repos\Methots\TopInteger2\obj\Debug\netcoreapp3.1\TopInteger2.AssemblyInfoInputs.cache
+C:\Users\Asena\source\repos\Methots\TopInteger2\obj\Debug\netcoreapp3.1\TopInteger2.AssemblyInfo.cs
+C:\Users\Asena\source\repos\Methots\TopInteger2\obj\Debug\netcoreapp3.1\TopInteger2.dll
+C:\Users\Asena\source\repos\Methots\TopInteger2\obj\Debug\netcoreapp3.1\TopInteger2.pdb

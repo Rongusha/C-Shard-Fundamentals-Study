@@ -1,0 +1,11 @@
+C:\Users\Asena\source\repos\Methots\CardsResult\bin\Debug\netcoreapp3.1\CardsResult.exe
+C:\Users\Asena\source\repos\Methots\CardsResult\bin\Debug\netcoreapp3.1\CardsResult.deps.json
+C:\Users\Asena\source\repos\Methots\CardsResult\bin\Debug\netcoreapp3.1\CardsResult.runtimeconfig.json
+C:\Users\Asena\source\repos\Methots\CardsResult\bin\Debug\netcoreapp3.1\CardsResult.runtimeconfig.dev.json
+C:\Users\Asena\source\repos\Methots\CardsResult\bin\Debug\netcoreapp3.1\CardsResult.dll
+C:\Users\Asena\source\repos\Methots\CardsResult\bin\Debug\netcoreapp3.1\CardsResult.pdb
+C:\Users\Asena\source\repos\Methots\CardsResult\obj\Debug\netcoreapp3.1\CardsResult.AssemblyInfoInputs.cache
+C:\Users\Asena\source\repos\Methots\CardsResult\obj\Debug\netcoreapp3.1\CardsResult.AssemblyInfo.cs
+C:\Users\Asena\source\repos\Methots\CardsResult\obj\Debug\netcoreapp3.1\CardsResult.dll
+C:\Users\Asena\source\repos\Methots\CardsResult\obj\Debug\netcoreapp3.1\CardsResult.pdb
+C:\Users\Asena\source\repos\Methots\CardsResult\obj\Debug\netcoreapp3.1\CardsResult.csprojAssemblyReference.cache
