@@ -1,0 +1,11 @@
+C:\Users\Asena\source\repos\Methots\02. Center Point\bin\Debug\netcoreapp3.1\02. Center Point.exe
+C:\Users\Asena\source\repos\Methots\02. Center Point\bin\Debug\netcoreapp3.1\02. Center Point.deps.json
+C:\Users\Asena\source\repos\Methots\02. Center Point\bin\Debug\netcoreapp3.1\02. Center Point.runtimeconfig.json
+C:\Users\Asena\source\repos\Methots\02. Center Point\bin\Debug\netcoreapp3.1\02. Center Point.runtimeconfig.dev.json
+C:\Users\Asena\source\repos\Methots\02. Center Point\bin\Debug\netcoreapp3.1\02. Center Point.dll
+C:\Users\Asena\source\repos\Methots\02. Center Point\bin\Debug\netcoreapp3.1\02. Center Point.pdb
+C:\Users\Asena\source\repos\Methots\02. Center Point\obj\Debug\netcoreapp3.1\02. Center Point.csprojAssemblyReference.cache
+C:\Users\Asena\source\repos\Methots\02. Center Point\obj\Debug\netcoreapp3.1\02. Center Point.AssemblyInfoInputs.cache
+C:\Users\Asena\source\repos\Methots\02. Center Point\obj\Debug\netcoreapp3.1\02. Center Point.AssemblyInfo.cs
+C:\Users\Asena\source\repos\Methots\02. Center Point\obj\Debug\netcoreapp3.1\02. Center Point.dll
+C:\Users\Asena\source\repos\Methots\02. Center Point\obj\Debug\netcoreapp3.1\02. Center Point.pdb
