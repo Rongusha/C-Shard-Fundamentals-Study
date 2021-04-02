@@ -1,0 +1,13 @@
+G:\SoftUni\c# fondamentals\FinalExam\01. Activation Keys\bin\Debug\netcoreapp3.1\01. Activation Keys.exe
+G:\SoftUni\c# fondamentals\FinalExam\01. Activation Keys\bin\Debug\netcoreapp3.1\01. Activation Keys.deps.json
+G:\SoftUni\c# fondamentals\FinalExam\01. Activation Keys\bin\Debug\netcoreapp3.1\01. Activation Keys.runtimeconfig.json
+G:\SoftUni\c# fondamentals\FinalExam\01. Activation Keys\bin\Debug\netcoreapp3.1\01. Activation Keys.runtimeconfig.dev.json
+G:\SoftUni\c# fondamentals\FinalExam\01. Activation Keys\bin\Debug\netcoreapp3.1\01. Activation Keys.dll
+G:\SoftUni\c# fondamentals\FinalExam\01. Activation Keys\bin\Debug\netcoreapp3.1\01. Activation Keys.pdb
+G:\SoftUni\c# fondamentals\FinalExam\01. Activation Keys\obj\Debug\netcoreapp3.1\01. Activation Keys.csprojAssemblyReference.cache
+G:\SoftUni\c# fondamentals\FinalExam\01. Activation Keys\obj\Debug\netcoreapp3.1\01. Activation Keys.csproj.CoreCompileInputs.cache
+G:\SoftUni\c# fondamentals\FinalExam\01. Activation Keys\obj\Debug\netcoreapp3.1\01. Activation Keys.AssemblyInfoInputs.cache
+G:\SoftUni\c# fondamentals\FinalExam\01. Activation Keys\obj\Debug\netcoreapp3.1\01. Activation Keys.AssemblyInfo.cs
+G:\SoftUni\c# fondamentals\FinalExam\01. Activation Keys\obj\Debug\netcoreapp3.1\01. Activation Keys.dll
+G:\SoftUni\c# fondamentals\FinalExam\01. Activation Keys\obj\Debug\netcoreapp3.1\01. Activation Keys.pdb
+G:\SoftUni\c# fondamentals\FinalExam\01. Activation Keys\obj\Debug\netcoreapp3.1\01. Activation Keys.genruntimeconfig.cache
